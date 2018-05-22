@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Turi-Create-User-Guide](README.md)
+* [User Guide for Turi Create](README.md)
 * [Overview](overview.md)
 * [Working with data](working-with-data/README.md)
   * [Tabular data](working-with-data/tabular-data.md)
